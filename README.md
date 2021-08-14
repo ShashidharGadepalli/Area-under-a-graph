@@ -7,7 +7,7 @@ This rule designates how the rectangles are made and used in the approximation. 
 
 
 The code here in this case calculates the integral of a sin function. 
-To calculte the integral of some other fucntion we need to change the function name in the return statement.
+To calculte the integral of some other function we need to change the function name in the return statement.
 
 
 The n value we take in the beggining is the no of strips we want to divide the graph into.(More the value of n ,more the no of strips so more accurate answer.)
