@@ -1,5 +1,8 @@
 # Area-under-a-graph
 A python code that calculates area under a graph using the midpoint theorem:
+*****NOTE****
+The code in this particular example calcultes the area of sin function and plots the graph and visualizes the area for the sin function only.
+To calculate the area of some other function and plot its graph and visulaize its area, some neccesary changes are required to be made in the code..
 
 The mid point Theorem:
 This rule designates how the rectangles are made and used in the approximation. Each rectangle out of "N" rectangles has to have an equal width, Δx, but each nth rectangle cannot be the exact same: the varying factor is the height which varies as the function evaluated at a certain point. The midpoint rule gets its name from the fact that you are evaluating the height of each rectangle as f(x_n), where "x_n" is the respective center-point of each rectangle, as apposed to the left or right of the rectangle. Using the midpoint is like implementing an average which will make the approximation more accurate than if you were to use the right or left. The supporting picture for this step summarizes how the midpoint rule is defined mathematically.
